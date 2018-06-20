@@ -1,16 +1,13 @@
-<!doctype html>
-
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>The Shift</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
-</head>
-
+<!DOCTYPE html>
+<html>
 <body>
-The shift - Paradigm shift - the transition from the old world to a new paradigm, new reality
+
+<h1>The Shift</h1>
+
+<p>The shift - Paradigm shift - the transition from the old world to a new paradigm, new reality
+</p>
+
+
+
 </body>
 </html>
