@@ -50,7 +50,12 @@ article,
 aside,
 footer,
 header,
-nav,
+nav,<nav>
+<a href="/html/">HTML</a> |
+<a href="/css/">CSS</a> |
+<a href="/js/">JavaScript</a> |
+<a href="/jquery/">jQuery</a>
+</nav>
 section {
   display: block; }
 
@@ -59,25 +64,6 @@ section {
  */
 body {
   margin: 100; }
-  pre {
-  background: #efefef;
-  color: #444;
-  display: block;
-  font-family: Menlo, monospace;
-  font-size: 1.4rem;
-  margin-bottom: .8remrem;
-  padding: 1.6rem;
-  word-break: break-all;
-  word-wrap: break-word;
-}
-code {
-  background: #efefef;
-  color: #444;
-  font-family: Menlo, monospace;
-  font-size: 1.4rem;
-  word-break: break-all;
-  word-wrap: break-word;
-}
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
