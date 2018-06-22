@@ -58,7 +58,7 @@ section {
  * Remove the margin in all browsers (opinionated).
  */
 body {
-  margin: 5; }
+  margin: 20; }
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
