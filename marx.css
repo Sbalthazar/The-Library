@@ -55,6 +55,9 @@ nav,<nav>
 <a href="/css/">CSS</a> |
 <a href="/js/">JavaScript</a> |
 <a href="/jquery/">jQuery</a>
+<nav>
+<a href="index.html">The Library</a>  -  <a href="Pages/AboutLibrarian.html">Message from the Librarian</a>  -  <a href="Intro Journey/IndexIntroJourney.html">Introduction Journey</a>   -  <a href="https://artofwonder.us17.list-manage.com/subscribe?u=b3123b022295ab54d40c76675&id=0f1783d5be">Roots & Wings Newsletter</a>
+</nav>
 </nav>
 section {
   display: block; }
