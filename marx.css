@@ -216,14 +216,14 @@ sup {
 ::-moz-selection {
   background-color: #b3d4fc;
   /* 1 */
-  color: #B8860B;
+  color: #000000;
   /* 1 */
   text-shadow: none; }
 
 ::selection {
   background-color: #b3d4fc;
   /* 1 */
-  color: #000000;
+  color: #B8860B;
   /* 1 */
   text-shadow: none; }
 
