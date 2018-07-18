@@ -223,7 +223,7 @@ sup {
 ::selection {
   background-color: #b3d4fc;
   /* 1 */
-  color: #B8860B;
+  color: #000000;
   /* 1 */
   text-shadow: none; }
 
@@ -658,7 +658,7 @@ code {
   word-wrap: break-word; }
 
 a {
-  color: #007bff;
+  color: #B8860B;
   text-decoration: none;
   background-color: transparent; }
   a:hover, a:focus {
