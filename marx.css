@@ -658,11 +658,11 @@ code {
   word-wrap: break-word; }
 
 a {
-  color: #8E6B35;
+  color: #7D5E2F;
   text-decoration: none;
   background-color: transparent; }
   a:hover, a:focus {
-    color: #8E6B35;
+    color: #7D5E2F;
     text-decoration: underline; }
 
 dl {
