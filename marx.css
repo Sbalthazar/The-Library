@@ -214,7 +214,7 @@ sup {
  * 1. Restore the coloring undone by defining the text shadow (opinionated).
  */
 ::-moz-selection {
-  background-color: #b3d4fc;
+  background-color: #B8860B;
   /* 1 */
   color: #000000;
   /* 1 */
