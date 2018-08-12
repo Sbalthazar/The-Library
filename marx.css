@@ -26,14 +26,7 @@
   /* 2 */ }
 
 
-  @font-face {
-      font-family: 'remington_noiselessregular';
-      src: url('remington_noiseless-webfont.woff2') format('woff2'),
-           url('remington_noiseless-webfont.woff') format('woff');
-      font-weight: normal;
-      font-style: normal;
 
-  }
 /**
  * 1. Add border box sizing in all browsers (opinionated).
  * 2. Add the default cursor in all browsers (opinionated).
@@ -597,7 +590,8 @@ video {
 
 body {
   color: rgba(0, 0, 0, 0.8);
-  font-family: remington_noiselessregular;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif
+;
   font-size: 16px;
   line-height: 1.5; }
 
@@ -648,7 +642,7 @@ pre {
   background: #f7f7f9;
   color: rgba(0, 0, 0, 0.8);
   display: block;
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif	;
   font-size: 16px;
   margin: 16px 0;
   padding: 16px;
@@ -657,7 +651,8 @@ pre {
 
 code {
   color: rgba(0, 0, 0, 0.8);
-  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif
+;
   font-size: 16px;
   line-height: inherit;
   margin: 0;
@@ -688,13 +683,15 @@ ol {
 
 blockquote {
   border-left: 2px solid rgba(0, 0, 0, 0.8);
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif
+;
   font-style: italic;
   margin: 16px 0;
   padding-left: 16px; }
 
 figcaption {
-  font-family: Georgia, Times, "Times New Roman", serif; }
+  font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif
+; }
 
 u {
   text-decoration: underline; }
